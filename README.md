@@ -4,13 +4,13 @@
 ![Google Workspace](https://img.shields.io/badge/Google-Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Automation-blue?style=for-the-badge)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adil-ai-automation&show_icons=true&theme=github_dark)
+
 ## AI Automation Engineer
 
-Welcome to my AI Automation Portfolio.
+I design and build AI-powered automation workflows using **n8n**, **OpenAI**, and **Google Workspace**.
 
-I design and build AI-powered automation workflows that solve real business problems using **n8n**, **OpenAI**, and **Google Workspace**.
-
-My projects focus on reducing manual work, improving productivity, and creating practical AI solutions that businesses can use every day.
+My projects automate repetitive business tasks such as document analysis, email generation, appointment scheduling, content creation, and customer communication, helping businesses save time and improve productivity.
 ---
 
 ## Core Skills
@@ -32,18 +32,12 @@ My projects focus on reducing manual work, improving productivity, and creating 
 
 Below are some of the AI automation workflows I've built. Each project includes a detailed overview, business use case, technology stack, workflow screenshot, and future improvements.
 
-- [AI Invoice & Receipt Analyser](./workflows/ai-invoice-receipt-analyser/)
-- [AI Cover Letter Generator](./workflows/ai-cover-letter-generator/)
-- [AI Contract Analyzer](./workflows/ai-contract-analyzer/)
-- [AI SEO Article Generator](./workflows/ai-seo-article-generator/)
-- [AI Resume Analyzer](./workflows/ai-resume-analyzer/)
-- [AI Meeting Summariser](./workflows/ai-meeting-summariser/)
-- [AI Appointment Booking Assistant](./workflows/ai-appointment-booking-assistant/)
-- [AI Gmail Draft Assistant](./workflows/ai-gmail-draft-assistant/)
-- [AI Social Media Content Assistant](./workflows/ai-social-media-content-assistant/)
-- [AI Content Creator](./workflows/ai-content-creator/)
-- [AI Email Assistant](./workflows/ai-email-assistant/)
-- [AI Welcome Email Automation](./workflows/ai-welcome-email-automation/)
+| Project                       | Description                                          |
+| ----------------------------- | ---------------------------------------------------- |
+| AI Contract Analyzer          | Reviews employment contracts and highlights risks.   |
+| AI Invoice & Receipt Analyzer | Extracts structured data from invoices using AI.     |
+| AI SEO Article Generator      | Produces SEO-friendly articles from a topic.         |
+| AI Meeting Summarizer         | Converts meeting transcripts into concise summaries. |
 
 ---
 
