@@ -30,7 +30,7 @@ This repository contains a collection of AI-powered business automation workflow
 - [AI Contract Analyzer](./workflows/ai-contract-analyzer/README.md)
 - AI SEO Article Generator
 - AI Resume Analyzer
-- AI Meeting Summarizer
+- [AI Meeting Summariser](./workflows/ai-meeting-summariser/)
 - AI Appointment Booking Assistant
 - AI Gmail Draft Assistant
 - AI Social Media Assistant
