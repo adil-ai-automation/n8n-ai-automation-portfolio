@@ -33,7 +33,7 @@ This repository contains a collection of AI-powered business automation workflow
 - [AI Meeting Summariser](./workflows/ai-meeting-summariser/)
 - [AI Appointment Booking Assistant](./workflows/ai-appointment-booking-assistant/)
 - [AI Gmail Draft Assistant](./workflows/ai-gmail-draft-assistant/)
-- AI Social Media Assistant
+- [AI Social Media Content Assistant](./workflows/ai-social-media-content-assistant/)
 - AI Content Creator
 - [AI Email Assistant](./workflows/ai-email-assistant/)
 - AI Welcome Email Automation
