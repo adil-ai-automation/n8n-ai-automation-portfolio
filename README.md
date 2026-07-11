@@ -4,7 +4,6 @@
 ![Google Workspace](https://img.shields.io/badge/Google-Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Automation-blue?style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adil-ai-automation&show_icons=true&theme=github_dark)
 
 ## AI Automation Engineer
 
