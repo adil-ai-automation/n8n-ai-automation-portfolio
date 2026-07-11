@@ -2,7 +2,7 @@
 
 ## Overview
 
-The AI Resume Analyzer is an intelligent n8n workflow that evaluates resumes using OpenAI. It analyzes the candidate's experience, technical skills, education, strengths, and areas for improvement, producing a structured report within seconds.
+The AI ATS Resume Analyzer is an intelligent n8n workflow that evaluates resumes using OpenAI. It analyzes the candidate's experience, technical skills, education, strengths, and areas for improvement, producing a structured report within seconds.
 
 ---
 
@@ -53,7 +53,7 @@ This workflow helps businesses:
 
 ## Workflow Screenshot
 
-![AI ATS Resume Analyzer](../../screenshots/ai-ai-resume-analyzer.png)
+![AI ATS Resume Analyzer](../../screenshots/ai-ats-resume-analyser.png)
 
 ---
 
