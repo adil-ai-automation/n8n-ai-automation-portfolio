@@ -32,7 +32,7 @@ This repository contains a collection of AI-powered business automation workflow
 - AI Resume Analyzer
 - [AI Meeting Summariser](./workflows/ai-meeting-summariser/)
 - [AI Appointment Booking Assistant](./workflows/ai-appointment-booking-assistant/)
-- AI Gmail Draft Assistant
+- [AI Gmail Draft Assistant](./workflows/ai-gmail-draft-assistant/)
 - AI Social Media Assistant
 - AI Content Creator
 - AI Email Assistant
