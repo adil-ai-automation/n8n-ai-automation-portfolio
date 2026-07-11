@@ -59,8 +59,7 @@ The generated report includes:
 
 ## Workflow Screenshot
 
-![AI Contract Analyzer](../../screenshots/contract%20analyser%20workflow.png)
----
+![AI Contract Analyzer](../../screenshots/ai-contract-analyzer.png)
 
 ## Future Improvements
 
