@@ -35,7 +35,7 @@ This repository contains a collection of AI-powered business automation workflow
 - [AI Gmail Draft Assistant](./workflows/ai-gmail-draft-assistant/)
 - AI Social Media Assistant
 - AI Content Creator
-- AI Email Assistant
+- [AI Email Assistant](./workflows/ai-email-assistant/)
 - AI Welcome Email Automation
 
 ---
