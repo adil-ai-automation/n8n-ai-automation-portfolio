@@ -25,7 +25,7 @@ This repository contains a collection of AI-powered business automation workflow
 
 ## Featured Projects
 
-- AI Invoice & Receipt Analyzer
+- [AI Invoice & Receipt Analyser](./workflows/ai-invoice-receipt-analyser/)
 - AI Cover Letter Generator
 - [AI Contract Analyzer](./workflows/ai-contract-analyzer/README.md)
 - AI SEO Article Generator
