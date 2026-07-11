@@ -31,7 +31,7 @@ This repository contains a collection of AI-powered business automation workflow
 - [AI SEO Article Generator](./workflows/ai-seo-article-generator/)
 - AI Resume Analyzer
 - [AI Meeting Summariser](./workflows/ai-meeting-summariser/)
-- AI Appointment Booking Assistant
+- [AI Appointment Booking Assistant](./workflows/ai-appointment-booking-assistant/)
 - AI Gmail Draft Assistant
 - AI Social Media Assistant
 - AI Content Creator
