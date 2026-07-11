@@ -29,7 +29,7 @@ This repository contains a collection of AI-powered business automation workflow
 - AI Cover Letter Generator
 - [AI Contract Analyzer](./workflows/ai-contract-analyzer/README.md)
 - [AI SEO Article Generator](./workflows/ai-seo-article-generator/)
-- AI Resume Analyzer
+- [AI Resume Analyzer](./workflows/ai-resume-analyzer/)
 - [AI Meeting Summariser](./workflows/ai-meeting-summariser/)
 - [AI Appointment Booking Assistant](./workflows/ai-appointment-booking-assistant/)
 - [AI Gmail Draft Assistant](./workflows/ai-gmail-draft-assistant/)
