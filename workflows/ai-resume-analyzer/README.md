@@ -1,4 +1,4 @@
-# AI Resume Analyzer
+# AI ATS Resume Analyzer
 
 ## Overview
 
@@ -53,7 +53,7 @@ This workflow helps businesses:
 
 ## Workflow Screenshot
 
-![AI Resume Analyzer](../../screenshots/ai-resume-analyzer.png)
+![AI ATS Resume Analyzer](../../screenshots/ai-ai-resume-analyzer.png)
 
 ---
 
