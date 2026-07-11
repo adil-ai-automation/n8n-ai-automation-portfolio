@@ -8,26 +8,29 @@
 
 Welcome to my AI Automation Portfolio.
 
-This repository contains a collection of AI-powered business automation workflows built using n8n, OpenAI, and Google Workspace. Each project demonstrates a practical automation designed to solve real business problems, improve efficiency, and reduce manual work.
+I design and build AI-powered automation workflows that solve real business problems using **n8n**, **OpenAI**, and **Google Workspace**.
 
+My projects focus on reducing manual work, improving productivity, and creating practical AI solutions that businesses can use every day.
 ---
 
-## Technologies
+## Core Skills
 
+- AI Workflow Automation
 - n8n
 - OpenAI GPT-5
-- AI Agents
 - Prompt Engineering
+- Google Workspace
 - Google Drive
 - Google Sheets
-- Gmail
+- Gmail Automation
 - Google Calendar
-- OCR
-- Workflow Automation
+- OCR & Document Processing
 
 ---
 
 ## Featured Projects
+
+Below are some of the AI automation workflows I've built. Each project includes a detailed overview, business use case, technology stack, workflow screenshot, and future improvements.
 
 - [AI Invoice & Receipt Analyser](./workflows/ai-invoice-receipt-analyser/)
 - [AI Cover Letter Generator](./workflows/ai-cover-letter-generator/)
