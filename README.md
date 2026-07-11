@@ -1,4 +1,8 @@
-# Adil
+# Adil Naveed Khan
+![n8n](https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--5-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google-Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Automation-blue?style=for-the-badge)
 
 ## AI Automation Engineer
 
