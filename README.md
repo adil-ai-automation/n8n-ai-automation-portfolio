@@ -32,12 +32,18 @@ My projects automate repetitive business tasks such as document analysis, email 
 
 Below are some of the AI automation workflows I've built. Each project includes a detailed overview, business use case, technology stack, workflow screenshot, and future improvements.
 
-| Project                       | Description                                          |
-| ----------------------------- | ---------------------------------------------------- |
-| AI Contract Analyzer          | Reviews employment contracts and highlights risks.   |
-| AI Invoice & Receipt Analyzer | Extracts structured data from invoices using AI.     |
-| AI SEO Article Generator      | Produces SEO-friendly articles from a topic.         |
-| AI Meeting Summarizer         | Converts meeting transcripts into concise summaries. |
+- [AI Invoice & Receipt Analyser](./workflows/ai-invoice-receipt-analyser/)
+- [AI Cover Letter Generator](./workflows/ai-cover-letter-generator/)
+- [AI Contract Analyzer](./workflows/ai-contract-analyzer/)
+- [AI SEO Article Generator](./workflows/ai-seo-article-generator/)
+- [AI Resume Analyzer](./workflows/ai-resume-analyzer/)
+- [AI Meeting Summariser](./workflows/ai-meeting-summariser/)
+- [AI Appointment Booking Assistant](./workflows/ai-appointment-booking-assistant/)
+- [AI Gmail Draft Assistant](./workflows/ai-gmail-draft-assistant/)
+- [AI Social Media Content Assistant](./workflows/ai-social-media-content-assistant/)
+- [AI Content Creator](./workflows/ai-content-creator/)
+- [AI Email Assistant](./workflows/ai-email-assistant/)
+- [AI Welcome Email Automation](./workflows/ai-welcome-email-automation/)
 
 ---
 
